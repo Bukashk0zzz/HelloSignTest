@@ -1,0 +1,16 @@
+{
+  "name": "bukashk0zzz/hello-sign-test",
+  "description": "HelloSign test",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Bukashk0zzz",
+      "email": "bukashk0zzz@gmail.com"
+    }
+  ],
+  "require": {
+    "hellosign/hellosign-php-sdk": "^3.4@dev",
+    "symfony/var-dumper": "^3.0"
+  }
+}
